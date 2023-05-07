@@ -1,0 +1,81 @@
+.main-bg {
+  padding: 50px;
+}
+.upper-div {
+  display: flex;
+  justify-content: space-between;
+}
+.heading {
+  color: #1e293b;
+  font-size: 40px;
+}
+.para {
+  color: #475569;
+  font-size: 12px;
+}
+.input-div {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: #cbd2d9;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.hr {
+  color: #cbd2d9;
+}
+.button1 {
+  background-color: #0284c7;
+  color: white;
+  font-size: 10px;
+  padding: 5px;
+  border-radius: 3px;
+  border-width: 0;
+  height: 25px;
+  width: 40%;
+}
+.button2 {
+  background-color: #0284c7;
+  color: white;
+  font-size: 12px;
+  padding: 5px;
+  border-radius: 3px;
+  border-width: 0;
+  height: 20px;
+  width: 20px;
+  margin-right: 2px;
+}
+.image-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 70%;
+}
+.comments-count {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.list-items {
+  list-style-type: none;
+}
+.span-ele {
+  text-align: center;
+  color: #ffffff;
+  background-color: #0284c7;
+  font-size: 12px;
+  font-family: 'Roboto';
+  border-radius: 4px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 8px;
+  margin-right: 4px;
+}
